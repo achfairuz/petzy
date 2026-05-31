@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Petzy",
+    "slug": "petzy",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "backgroundColor": "#F5F5F5",
+      "resizeMode": "contain"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.petzy.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#F5F5F5"
+      },
+      "package": "com.petzy.app"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
